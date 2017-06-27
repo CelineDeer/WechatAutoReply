@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@mipmap/duck01"
+        android:duration="200"></item>
+
+    <item
+        android:drawable="@mipmap/duck02"
+        android:duration="100"></item>
+
+    <item
+        android:drawable="@mipmap/duck03"
+        android:duration="100"></item>
+
+    <item
+        android:drawable="@mipmap/duck04"
+        android:duration="100"></item>
+    <item
+        android:drawable="@mipmap/duck05"
+        android:duration="50"></item>
+    <item
+        android:drawable="@mipmap/duck06"
+        android:duration="50"></item>
+    <item
+        android:drawable="@mipmap/duck07"
+        android:duration="100"></item>
+    <item
+        android:drawable="@mipmap/duck08"
+        android:duration="100"></item>
+
+</animation-list>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccessibilityService</string>
+
+    <string name="accessibility_description">autoreply_service</string>
+    
+    <string name="explaination">设置完自动回复的消息之后，请打开设置，找到辅助设置（通用设置），开启AutoReplyService服务</string>
+</resources>
